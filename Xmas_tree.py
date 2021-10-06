@@ -16,4 +16,4 @@ def xmastree(n):
 
 if __name__ == '__main__':
     import pprint
-    pprint.pprint(xmastree(1111111111111111))
+    pprint.pprint(xmastree(7))
