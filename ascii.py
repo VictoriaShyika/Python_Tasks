@@ -6,9 +6,7 @@ def even_or_odd(s):
             even_arr.append(int(x))
         else:
             odd_arr.append(int(x))
-    odd_sum = sum(odd_arr)
-    even_sum = sum(even_arr)
-    if odd_sum > even_sum:
+    odd
         return 'Odd is greater than Even'
     elif even_sum == odd_sum:
         return 'Even and Odd are the same'
