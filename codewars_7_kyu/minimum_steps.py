@@ -13,4 +13,3 @@ if __name__ == '__main__':
     assert minimum_steps([8, 9, 10, 4, 2], 23) == 3
     assert minimum_steps([19, 98, 69, 28, 75, 45, 17, 98, 67], 464) == 8
     assert minimum_steps([4, 6, 3], 2) == 0
-    print("<COMPLETEDIN::>")
